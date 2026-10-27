@@ -1,0 +1,6 @@
+{
+  "name": "Thư viện gợi ý sách",
+  "description": "Hệ thống khuyến nghị sách tiếng Việt thông minh cho đồ án nghiên cứu khoa học: tìm theo thể loại, tác giả, mục tiêu tự nhiên và gợi ý theo lịch sử xem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
